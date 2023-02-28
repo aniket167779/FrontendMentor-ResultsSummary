@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-v7Nn5HGrom
 - Live Site URL: https://graceful-speculoos-02f769.netlify.app/
 
 ## My process
