@@ -23,10 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2023-02-28 233615](https://user-images.githubusercontent.com/69382363/221941320-bcf56c1a-2536-41b8-ac99-f97e6b910ebb.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://graceful-speculoos-02f769.netlify.app/
 
 ## My process
 
